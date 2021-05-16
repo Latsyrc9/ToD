@@ -1,0 +1,45 @@
+type,challenge,info,lvl,level,group,category,who,objects,time,points
+Dare,Bark like a dog,,0,Easy,Classic,,Any,,,1
+Dare,Do 20 squats,,0,Easy,Classic,Workout,Any,,,1
+Dare,Do the worm,,0,Easy,Classic,,Any,,,1
+Dare,Keep your eyes closed until it's your go again,,0,Easy,Classic,,Any,,,1
+Dare,Play air guitar for 2 minutes straight,,0,Easy,Classic,,Any,,120,1
+Dare,Put your clothing on backwards for the rest of the evening,,0,Easy,Classic,Clothes,Any,,,1
+Dare,Show the most embarrassing photo on your phone,"If there is none, then let --player-- wright their favoriter food on your forehead and take a selfie with him/her",0,Easy,Classic,,Any,"Cell Phone, Marker",,1
+Dare,Show your best dance move(s),,0,Easy,Classic,,Any,,,1
+Dare,Stand up for 2 turns,,0,Easy,Classic,,Any,,,1
+Dare,Take a selfie and send it to --player--,,0,Easy,Classic,,Any,Cell Phone,,1
+Dare,Meow like a cat,,0,Easy,Classic,,Any,,,1
+Dare,Yell out the first word that comes to your mind,,0,Easy,Classic,,Any,,,1
+Dare,Be --player--'s pet for the next 5 minutes,,1,Medium,Classic,,Any,,300,2
+Dare,Dance without music for 2 minutes,,1,Medium,Classic,,Any,,120,2
+Dare,Do 10 pushups,,1,Medium,Classic,Workout,Any,,,2
+Dare,Down your drink (responsibly),,1,Medium,Classic,Drink,Any,Drink,,2
+Dare,Empty out your wallet/purse and show everyone what's inside,,1,Medium,Classic,,Any,,,2
+Dare,Give a foot massage to --player--,,1,Medium,Classic,,Any,,,2
+Dare,Jump up and down as high as you can go for 60 seconds,,1,Medium,Classic,Workout,Any,,,2
+Dare,Talk in an accent for the next 3 rounds,,1,Medium,Classic,,Any,,,2
+Dare,Try to lick your elbow,,1,Medium,Classic,,Any,,,2
+Dare,Try to put your whole fist in your mouth ,,1,Medium,Classic,,Any,,,2
+Dare,Belly dance like your life depended on it for 60 seconds,,2,Hard,Classic,,Any,,60,3
+Dare,Do 100 squats,,2,Hard,Classic,Workout,Any,,,3
+Dare,Do a headstand for 2 minutes,You can use a wall if needed,2,Hard,Classic,,Any,,120,3
+Dare,Keep three ice cubes in your mouth until they melt,,2,Hard,Classic,,Any,Ice,,3
+Dare,Let --player-- give you a wedgie,,2,Hard,Classic,,Any,,,3
+Dare,Let --player-- go through your phone for 3 minutes,,2,Hard,Classic,,Any,,180,3
+Dare,Let --player-- put on makeup,,2,Hard,Classic,,Male,,,3
+Dare,Let --player-- tickle you and try not to laugh ,,2,Hard,Classic,,Any,,,3
+Dare,Shower with your clothes on,,2,Hard,Classic,,Any,Shower,,3
+Dare,Take a selfie on the toilet and send it to --player--,Hint: Lid down and pants on. Pic can be taken from the waist up to be deceptive.,2,Hard,Classic,,Any,,,3
+Dare,Twerk for 60 seconds,,2,Hard,Classic,,Any,,,3
+Dare,Wash off your make up,,2,Hard,Classic,,Female,,,3
+Dare,"For Guys Only Dare, and your partner for this test is --player--",This is a test to make sure the game is working properly,99,Test,Test,,Male,,,99
+Dare,"For Girls Only Dare, and your partner for this test is --player--",This is a test to make sure the game is working properly,99,Test,Test,,Female,,,99
+Dare,"For Bis Only Dare, and your partner for this test is --player--",This is a test to make sure the game is working properly,99,Test,Test,,Bisexual,,,99
+Dare,"For Straight Only Dare, and your partner for this test is --player--",This is a test to make sure the game is working properly,99,Test,Test,,Heterosexual,,,99
+Dare,"For Gay Only Dare, and your partner for this test is --player--",This is a test to make sure the game is working properly,99,Test,Test,,Homosexual,,,99
+Truth,"For Guys Only Truth, and your partner for this test is --player--",This is a test to make sure the game is working properly,99,Test,Test,,Male,,,99
+Truth,"For Girls Only Truth, and your partner for this test is --player--",This is a test to make sure the game is working properly,99,Test,Test,,Female,,,99
+Truth,"For Bis Only Truth, and your partner for this test is --player--",This is a test to make sure the game is working properly,99,Test,Test,,Bisexual,,,99
+Truth,"For Straight Only Truth, and your partner for this test is --player--",This is a test to make sure the game is working properly,99,Test,Test,,Heterosexual,,,99
+Truth,"For Gay Only Truth, and your partner for this test is --player--",This is a test to make sure the game is working properly,99,Test,Test,,Homosexual,,,99
